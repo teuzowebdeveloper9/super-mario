@@ -75,4 +75,4 @@ e o yoshi levou a melhor nessa ksskksk quem apostou nele ?
 Chame um amigo, apostem quem será o campeão e vejam quem tem mais sorte (ou estratégia) nas corridas do Mario! 🎲🏆
 
 ---
-Projeto criado para fins educacionais na DIO. 
+Made with 💻 by [teuzowebdeveloper9](https://github.com/teuzowebdeveloper9)
