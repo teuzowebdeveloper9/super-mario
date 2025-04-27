@@ -39,7 +39,7 @@ Este é um projeto desenvolvido para a DIO (Digital Innovation One), simulando u
 ---
 # aviso ao felipão
 
-sinceramente, ao desenvolver meu codigo  eu não achei interessate a feauture de no confronto se perder pontos invés de ganhar, então como eu mesmo fiz meu codigo e minha logica eu resolvi tirar, provalemnete ela foi usada com o intuito pedagogico, de fazer os alunos do curso verificarem se um numero é menor que 0 e tratarem essa incognita, e para uso pédagogico realmente entendo que é legal, mas optei por fazer da minha forma. Na programação nunca se  tem apenas uma maneira de pensar então acho que você vai me entender 💖
+sinceramente, ao desenvolver meu codigo  eu não achei interessate a feauture de no confronto se perder pontos ao invés de ganhar, então como eu mesmo fiz meu codigo e minha logica eu resolvi tirar, provalemnete ela foi usada com o intuito pedagogico, de fazer os alunos do curso verificarem se um numero é menor que 0 e tratarem essa incognita, e para uso pédagogico realmente entendo que é legal, mas optei por fazer da minha forma. Na programação nunca se  tem apenas uma maneira de pensar então acho que você vai me entender 💖
 ---
 
 # screenshots 📸
